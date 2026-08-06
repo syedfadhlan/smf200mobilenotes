@@ -8,3 +8,7 @@ Mobile version 7.5
 4Aug2026
 
 v8.2 Adding Search function
+
+6-Aug2026
+
+v8.4 Enhance on: (1) Increase max number of tag from 10 to 50. (2) Inline checklist
